@@ -3,7 +3,7 @@
 The code officially implements the Bio-kNN algorithm for kNN Search in Biological Sequence.
 ## datasets
 
-The dataset we used can be found at https://drive.google.com/file/d/17GvzqDPV6ZTIh9nwHHvnXp4RNcdQA98n/view?usp=drive_link 
+The dataset we used can be found at https://drive.google.com/file/d/17GvzqDPV6ZTIh9nwHHvnXp4RNcdQA98n/view?usp=drive_link and https://huggingface.co/datasets/Airchang/SDD
 
 ## Contributors
 
